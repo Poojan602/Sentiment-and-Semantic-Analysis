@@ -1,0 +1,3 @@
+Google's AI education tool makes it easy to train models for your projects
+Google's Teachable Machine is no longer just a handy lesson in AI -- you can now put it to work. The tech giant has launched Teachable Machine 2.0 with the ability to use your machine learning model in apps, websites and other projects. You can upload your mo
+teachable machine can also accept more than just images. you can train ai models based on sound and poses in addition to the usual image data (including photos, not just webcam images). want to determine whether or not your music is metal enough? now you can. [+491 chars]

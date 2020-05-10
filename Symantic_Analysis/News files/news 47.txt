@@ -1,0 +1,3 @@
+Researchers Want Guardrails to Help Prevent Bias in AI
+Researchers suggest limiting the possible results from an algorithm, particularly when non-experts are at the controls.
+artificial intelligence has given us algorithms capable of recognizing faces, diagnosing disease, and of course, crushing computer games. but even the smartest algorithms can sometimes behave in unexpected and unwanted ways, for example picking up gender bias [+4000 chars]
