@@ -15,7 +15,8 @@ Sentiment and Semantic Analysis were done on twitter and news API respectively
 - Using tableau, most frequently occurred words in both positive and negative tweets collected were visualized as follows.
 
 
-<<-------Image------->>
+![Image](https://github.com/Poojan602/Sentiment-and-Semantic-Analysis/blob/master/Images/Word%20cloud.png)
+
 
 # Semantic Analysis
 
